@@ -1,0 +1,13 @@
+h1{
+    font-size: 80px;
+    font-weight: 700;
+    font-family:   Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
+p{
+    font-size: 35px;
+}
+body
+{
+    background-color: #50727b62;
+}
